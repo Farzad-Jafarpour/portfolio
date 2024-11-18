@@ -50,7 +50,7 @@ export const DATA = {
         name: "X",
         url: "https://t.me/fnodet2000",
         icon: Icons.telegram,
-        navbar: true,
+        navbar: false,
       },
       Youtube: {
         name: "Youtube",
